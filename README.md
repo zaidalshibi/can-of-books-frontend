@@ -1,5 +1,7 @@
 # Project Name
 
+Can Of Books
+
 **Author**: Zaid Alshibi
 **Version**: 1.0.0
 
@@ -21,6 +23,16 @@ It will READ book data by connecting our front-end React app to a back-end Expre
 
 - add a conditional rendering for the required data
 
+- add the /books route to the backeng and connect it to MongoDB
+
+- create a schema for the database
+
+- create the books model using 3 books of my choice
+
+- make a GET request in the frontend (bestBooks component) to retrieve all the books from the database
+
+- use a Bootstrap carousel to render all the books returned
+
 ## Architecture
 
 - React js
@@ -40,25 +52,26 @@ It will READ book data by connecting our front-end React app to a back-end Expre
 ## Change Log
 
 08-08-2022 2:20 pm - Application now has a Auth0 components and a Profile Route
+09-08-2022 5:35 pm - Application now has about page, user profile page and a book collection
 
 ## Credit and Collaborations
 
 ## Name of feature
 
-adding the Auth0 feature
+Adding about page, user profile page and book collection from the backend server
 
 ## Estimate of time needed to complete
 
-3:00 hours
+5 hours
 
 ## Start time
 
-12:30pm
+3:00 pm
 
 ## Finish time
 
-2:00pm
+5:35 pm
 
 ## Actual time needed to complete
 
-1:30 hours
+2:35 hours
