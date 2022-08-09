@@ -42,3 +42,23 @@ It will READ book data by connecting our front-end React app to a back-end Expre
 08-08-2022 2:20 pm - Application now has a Auth0 components and a Profile Route
 
 ## Credit and Collaborations
+
+## Name of feature
+
+adding the Auth0 feature
+
+## Estimate of time needed to complete
+
+3:00 hours
+
+## Start time
+
+12:30pm
+
+## Finish time
+
+2:00pm
+
+## Actual time needed to complete
+
+1:30 hours
