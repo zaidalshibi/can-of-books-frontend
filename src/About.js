@@ -12,6 +12,18 @@ class About extends Component {
         <Header />
         <ListGroup>
           <ListGroup.Item>Main Developer : Zaid Alshibi</ListGroup.Item>
+          <ListGroup.Item>
+            Contact :
+            <a href="mailto:zaidealshibi@gmail.com">
+              Email me
+              </a> | 
+              <a href="https://www.linkedin.com/in/zaidealshibi/">
+                LinkedIn
+                </a> |
+                <a href="https://github.com/zaidalshibi">
+                  GitHub
+                  </a>
+            </ListGroup.Item>
           <ListGroup.Item>Regards Code Fellow</ListGroup.Item>
         </ListGroup>
         <Footer />
